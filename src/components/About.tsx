@@ -13,7 +13,7 @@ const About = (props: Props) => {
           <img className="md:h-80" src={AboutImg} alt="About Img" />
 
           <ul>
-            <div className="flex gap-3 py-4" l>
+            <div className="flex gap-3 py-4">
               <IoArrowForward size={30} className="mt-1" />
 
               <span className="w-96">
@@ -29,7 +29,7 @@ const About = (props: Props) => {
               </span>
             </div>
 
-            <div className="flex gap-3 py-4" l>
+            <div className="flex gap-3 py-4">
               <IoArrowForward size={30} className="mt-1" />
 
               <span className="w-96">
@@ -45,7 +45,7 @@ const About = (props: Props) => {
               </span>
             </div>
 
-            <div className="flex gap-3 py-4" l>
+            <div className="flex gap-3 py-4">
               <IoArrowForward size={30} className="mt-1" />
 
               <span className="w-96">
