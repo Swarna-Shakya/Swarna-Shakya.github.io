@@ -25,7 +25,7 @@ const Navbar = (props: Props) => {
           <a href="#Projects">Projects</a>
         </li>
         <li className="text-dm transition-all duration-300 p-1 md:p-0">
-          <a href="#Contact">Contact</a>
+          <a href="#Footer">Contact</a>
         </li>
       </ul>
       {showMenu ? (
