@@ -1,7 +1,4 @@
-import React, { useEffect, useState } from "react";
-import { ImClearFormatting } from "react-icons/im";
-
-
+import { useEffect, useState } from "react";
 
 const TextChange = () => {
   const texts = ["Hello, I am Swarna"];
