@@ -1,9 +1,9 @@
 import { RiCloseLine, RiMenu2Line } from "@remixicon/react";
 import React, { useState } from "react";
 
-type Props = {};
 
-const Navbar = (props: Props) => {
+
+const Navbar = () => {
   const [menu, openMenu] = useState(false);
   const [showMenu, setShowMenu] = useState(true);
 

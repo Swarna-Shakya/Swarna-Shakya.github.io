@@ -1,9 +1,9 @@
-import React from "react";
+
 import ProjectCard from "./ProjectCard";
 
-type Props = {};
 
-const Projects = (props: Props) => {
+
+const Projects = () => {
   return (
     <div id="Projects" className="p-10 md:p-24 text-white">
       <h1 className="text-2xl md:text-4xl text-white font-bold">Projects</h1>

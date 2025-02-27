@@ -1,9 +1,9 @@
 import React, { useEffect, useState } from "react";
 import { ImClearFormatting } from "react-icons/im";
 
-type Props = {};
 
-const TextChange = (props: Props) => {
+
+const TextChange = () => {
   const texts = ["Hello, I am Swarna"];
   const [currentText, setCurrentText] = useState("");
   const [endValue, setEndValue] = useState(1);

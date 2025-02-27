@@ -1,10 +1,10 @@
-import React from "react";
+
 import avatarImg from "../assets/clark-tibbs-oqStl2L5oxI-unsplash.jpg";
 import TextChange from "./TextChange";
 
-type Props = {};
 
-const Home = (props: Props) => {
+
+const Home = () => {
   return (
     <div className="text-white flex w-full justify-between p-10 md:p-20">
       <div className="md:pt-10">

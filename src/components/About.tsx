@@ -1,10 +1,7 @@
-import React from "react";
 import AboutImg from "../assets/clark-tibbs-oqStl2L5oxI-unsplash.jpg";
 import { IoArrowForward } from "react-icons/io5";
 
-type Props = {};
-
-const About = (props: Props) => {
+const About = () => {
   return (
     <div id="About" className="text-white md:flex overflow-hidden items-center md:flex-wrap md:justify-center bg-black shadow-xl mx-0 md:mx-20 bg-opcaity-30 rounded-lg p-12">
       <div>

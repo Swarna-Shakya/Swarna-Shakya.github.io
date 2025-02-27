@@ -1,4 +1,4 @@
-import React from "react";
+
 import bannerImg from "../assets/clark-tibbs-oqStl2L5oxI-unsplash.jpg";
 
 type Props = { title: string; main: string };

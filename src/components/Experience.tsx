@@ -1,4 +1,3 @@
-import React from "react";
 import {
   FaCss3,
   FaFigma,
@@ -11,9 +10,7 @@ import {
 import { SiRedis, SiMongodb } from "react-icons/si";
 import { RiNetflixFill } from "@remixicon/react";
 
-type Props = {};
-
-const Experience = (props: Props) => {
+const Experience = () => {
   return (
     <div id="Experience" className="p-10 md:p-24">
       <h1 className="text-2x1 md:text-4x1 text-white font-bold">Experience</h1>
